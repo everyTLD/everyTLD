@@ -1,0 +1,316 @@
+Uri: https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined&display=swap
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialsymbolsoutlined/v206/kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\s\materialsymbolsoutlined\v206\kJF1BvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6oDMzByHX9rA6RzaxHMPdY43zj-jCxv3fzvRNU22ZXGJpEpjC_1v-p_4MrImHCIJIZrDCvHOem.ttf
+Content Type: font/ttf
+
+Uri: https://material-web.dev/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/about/images/what-is-material.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\images\what-is-material.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/about/intro/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\intro\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/about/quick-start/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\quick-start\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/about/roadmap/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\roadmap\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/about/size/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\size\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/about/support/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\about\support\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/button/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\button\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/button/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\button\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/checkbox/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\checkbox\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/checkbox/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\checkbox\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/chip/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\chip\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/chip/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\chip\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/dialog/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\dialog\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/dialog/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\dialog\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/fab/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\fab\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/fab/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\fab\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/icon-button/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\icon-button\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/icon-button/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\icon-button\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/images/button/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\button\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/checkbox/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\checkbox\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/chips/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\chips\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/dialog/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\dialog\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/fab/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\fab\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/iconbutton/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\iconbutton\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/list/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\list\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/menu/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\menu\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/progress/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\progress\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/radio/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\radio\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/ripple/hero.gif
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\ripple\hero.gif
+Content Type: image/gif
+
+Uri: https://material-web.dev/components/images/select/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\select\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/slider/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\slider\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/switch/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\switch\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/tabs/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\tabs\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/images/textfield/hero.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\images\textfield\hero.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/components/list/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\list\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/list/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\list\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/menu/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\menu\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/menu/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\menu\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/progress/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\progress\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/progress/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\progress\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/radio/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\radio\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/radio/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\radio\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/ripple/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\ripple\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/ripple/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\ripple\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/select/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\select\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/slider/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\slider\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/slider/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\slider\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/switch/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\switch\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/switch/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\switch\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/tabs/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\tabs\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/tabs/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\tabs\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/text-field/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\text-field\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/components/text-field/stories/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\components\text-field\stories\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/css/home-page.css
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css\home-page.css
+Content Type: text/css
+
+Uri: https://material-web.dev/css/md-layout.css
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css\md-layout.css
+Content Type: text/css
+
+Uri: https://material-web.dev/css/no-js.css
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css\no-js.css
+Content Type: text/css
+
+Uri: https://material-web.dev/css/stories.css
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css\stories.css
+Content Type: text/css
+
+Uri: https://material-web.dev/css/syntax-highlight.css
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\css\syntax-highlight.css
+Content Type: text/css
+
+Uri: https://material-web.dev/fonts/google-sans/mono.woff2
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\fonts\google-sans\mono.woff2
+Content Type: font/woff2
+
+Uri: https://material-web.dev/fonts/google-sans/regular.woff2
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\fonts\google-sans\regular.woff2
+Content Type: font/woff2
+
+Uri: https://material-web.dev/images/favicon.svg
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://material-web.dev/js/hydration-entrypoints/playground-elements.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\hydration-entrypoints\playground-elements.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/pages/components.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\pages\components.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/pages/global.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\pages\global.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/pages/home-page.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\pages\home-page.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/pages/stories.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\pages\stories.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/ssr-utils/lit-hydrate-support.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\ssr-utils\lit-hydrate-support.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/js/ssr-utils/lit-island.js
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\js\ssr-utils\lit-island.js
+Content Type: text/javascript
+
+Uri: https://material-web.dev/theming/color/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\color\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/theming/images/color-scheme-dark.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\images\color-scheme-dark.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/theming/images/color-scheme-light.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\images\color-scheme-light.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/theming/images/theming.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\images\theming.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/theming/images/token-types.webp
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\images\token-types.webp
+Content Type: image/webp
+
+Uri: https://material-web.dev/theming/material-theming/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\material-theming\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/theming/shape/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\shape\index.htm
+Content Type: text/html
+
+Uri: https://material-web.dev/theming/typography/
+File Name: C:\Users\Melih\Desktop\WebPageeveryTLD\material-web.dev\theming\typography\index.htm
+Content Type: text/html
+
